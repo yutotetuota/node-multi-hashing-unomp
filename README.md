@@ -28,6 +28,7 @@ Algorithms
 * shavite3
 * cryptonight
 * boolberry
+* vipstar
 
 Usage
 -----
